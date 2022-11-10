@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devmahbub
 - 👀 I’m interested in WordPress developing.
-- 🌱 I’m currently learning Laravel.
+- 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on WordPress developing.
 - 📫 My Facebook username is <a href="https://facebook.com/devmahbubfb" target="_blank">devmahbubfb</a>.
 
